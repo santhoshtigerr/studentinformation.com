@@ -1,0 +1,18 @@
+*{
+     margin:0px; 
+     padding:0px; 
+}
+img{
+    width:15%;
+    height:15%;
+    margin:10px;
+}
+h2{
+    color:blue;
+    background-color:linear-gradient(90deg,orange,brown) ;
+    text-align:center;
+    padding: 2%;
+}
+body{
+    background: linear-gradient(90deg,orange,brown);
+}
